@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+gdk9.egg-info/PKG-INFO
+gdk9.egg-info/SOURCES.txt
+gdk9.egg-info/dependency_links.txt
+gdk9.egg-info/entry_points.txt
+gdk9.egg-info/requires.txt
+gdk9.egg-info/top_level.txt

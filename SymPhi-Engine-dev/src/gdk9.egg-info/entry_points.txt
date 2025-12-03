@@ -1,0 +1,2 @@
+[console_scripts]
+gdk9 = gdk9.cli:main
